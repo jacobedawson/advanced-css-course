@@ -1,0 +1,39 @@
+.u-center-text {
+    text-align: center !important;
+}
+
+.mt {
+    &-xs {
+        margin-top: 2rem !important;
+    }
+    &-sm {
+        margin-top: 4rem !important;
+    }
+    &-md {
+        margin-top: 6rem !important;
+    }
+    &-lg {
+        margin-top: 8rem !important;
+    }
+    &-xl {
+        margin-top: 8rem !important;
+    }
+}
+
+.mb {
+    &-xs {
+        margin-bottom: 2rem !important;
+    }
+    &-sm {
+        margin-bottom: 4rem !important;
+    }
+    &-md {
+        margin-bottom: 6rem !important;
+    }
+    &-lg {
+        margin-bottom: 8rem !important;
+    }
+    &-xl {
+        margin-bottom: 8rem !important;
+    }
+}
