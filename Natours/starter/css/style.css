@@ -1,3 +1,11 @@
+/*
+    Desktop First Media Query Breakpoints
+    0 - 600 phone
+    600 - 900 tablet
+    900 - 1200 tablet-landscape
+    1200 - 1800 desktop
+    1800 - big-desktop
+*/
 *,
 *::after,
 *::before {
